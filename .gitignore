@@ -1,0 +1,4 @@
+# Ignore dataset folders and large archives
+CNN_D1/data/
+data/
+*.tar.gz
